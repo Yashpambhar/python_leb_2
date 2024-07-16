@@ -11,4 +11,6 @@ if check_element_in_list(my_list, element_to_check):
     print(f"{element_to_check} exists in the list.")
 else:
     print(f"{element_to_check} does not exist in the list.")
-  
+    
+  output :-
+![Screenshot 2024-07-17 014121](https://github.com/user-attachments/assets/9d1c9483-178a-427d-acec-c2c90b9ca020)
