@@ -5,3 +5,6 @@ def draw_pattern(n):
         print()
 
 draw_pattern(5)
+
+output :-
+![Screenshot 2024-07-17 012945](https://github.com/user-attachments/assets/ec715128-d137-4187-8535-9b822b968cbe)
